@@ -31,10 +31,7 @@ class MovieList {
         this.movies = this.movies.filter(song => movie.id != id);
     }
 
-    getTop10Movies() {
-        console.log(this.movies);
-        return this.movies.sort((a,b) => b.plays - a.plays).slice(0, 10);
-    }
+    
 }
 
 module.exports = MovieList;
