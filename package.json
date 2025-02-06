@@ -1,5 +1,5 @@
 {
-  "name": "filmes-backend",
+  "name": "filmes",
   "version": "1.0.0",
   "description": "Esse é um projeto para o início do semestre de Back-End",
   "main": "server.js",
